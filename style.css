@@ -34,7 +34,6 @@ h2 {
     margin-top: 50px;
     position: relative;
     height: 40px;
-
 }
 
 button {
@@ -51,14 +50,12 @@ button {
 
 button.yes-btn {
     background: #e94d58;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
 }
 
 button.no-btn {
     background: white;
     color: #e94d58;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
-
-
